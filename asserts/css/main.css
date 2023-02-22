@@ -1,0 +1,9 @@
+:root {
+	--primary: #ffffff;
+    --secondary: #f1f1f1;
+    --tertiary: #f1f1f1;
+}
+
+.min-vh-100 {
+    min-height: 100vh;
+}
